@@ -10,6 +10,10 @@ pylint = "*"
 jupyter = "*"
 selenium = "*"
 pandas = "*"
+matplotlib = "*"
+seaborn = "*"
+wordcloud = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.8"
