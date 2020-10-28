@@ -14,6 +14,8 @@ matplotlib = "*"
 seaborn = "*"
 wordcloud = "*"
 nltk = "*"
+scikit-learn = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.8"
