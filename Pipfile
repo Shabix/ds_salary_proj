@@ -16,6 +16,8 @@ wordcloud = "*"
 nltk = "*"
 scikit-learn = "*"
 statsmodels = "*"
+flask = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
